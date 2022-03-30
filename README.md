@@ -6,7 +6,7 @@
 <p>const persona = {
   
       nombre: "Carolina", 
-      tecnologias: ["JavaScript", "React", "Sass", "git, "HTML5", "CSS3"],
+      tecnologias: ["JavaScript", "React", "Sass", "git, "HTML5", "CSS3", Bulma, Material UI, Tailwind],
       pasatiempo: "Codear",    
       objetivo: "Seguir aprendiendo",
 }</p>
